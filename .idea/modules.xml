@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DataExchange.iml" filepath="$PROJECT_DIR$/DataExchange.iml" />
+      <module fileurl="file://E:\Workspaces\dataexchange\DataExchange.iml" filepath="E:\Workspaces\dataexchange\DataExchange.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\Workspaces\dataexchange\app\app.iml" filepath="E:\Workspaces\dataexchange\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dataexchange.iml" filepath="$PROJECT_DIR$/dataexchange.iml" />
     </modules>
   </component>
 </project>
